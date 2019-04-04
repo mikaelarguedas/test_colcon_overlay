@@ -1,0 +1,57 @@
+- git:
+    local-name: ament_cmake/ament_cmake
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_core
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_core/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_export_definitions
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_export_definitions/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_export_dependencies
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_export_dependencies/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_export_include_directories
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_export_include_directories/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_export_interfaces
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_export_interfaces/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_export_libraries
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_export_libraries/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_export_link_flags
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_export_link_flags/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_include_directories
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_include_directories/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_libraries
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_libraries/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_python
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_python/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_target_dependencies
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_target_dependencies/0.6.1-0
+- git:
+    local-name: ament_cmake/ament_cmake_test
+    uri: https://github.com/ros2-gbp/ament_cmake-release.git
+    version: release/crystal/ament_cmake_test/0.6.1-0
+- git:
+    local-name: ament_package
+    uri: https://github.com/ros2-gbp/ament_package-release.git
+    version: release/crystal/ament_package/0.6.0-0
+
